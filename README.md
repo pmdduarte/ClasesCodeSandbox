@@ -1,2 +1,0 @@
-# ClasesCodeSandbox
-Created with CodeSandbox
